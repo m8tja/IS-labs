@@ -1,3 +1,3 @@
-# IS_labs
+# IS-labs
 
 Intelligent Systems assignments and solved lab exercises.
